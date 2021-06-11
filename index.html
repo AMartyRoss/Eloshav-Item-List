@@ -10,17 +10,16 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.2/angular.min.js"></script>
-    <title>Eloshav's Item List</title>
+    <title>Eloshav</title>
     <script type="text/javascript">
         const itemListURL = "https://raw.githubusercontent.com/AMartyRoss/Item-List/master/StoreItems.json";
         const eventListURL = "https://raw.githubusercontent.com/AMartyRoss/Item-List/master/StoreEvents.json";
-		const traitListURL = "https://raw.githubusercontent.com/AMartyRoss/Item-List/master/Traitlist.json";
     </script>
 </head>
 
 <body>
     <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-        <a class="navbar-brand" href="#">ItemList</a>
+        <a class="navbar-brand" href="#">HodlHodl</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -69,9 +68,6 @@
                                     <button class="btn btn-success" ng-class="{'active': (selected == '2')}" ng-click='selected=2'>
                                         Events
                                     </button>
-									<button class="btn btn-success" ng-class="{'active': (selected == '3')}" ng-click='selected=3'>
-                                        Traits
-									</button>
                                 </div>
                                 <div class="form-group row">
                                     <label class="col-sm-2 col-form-label" for="">Price Between:</label>
@@ -97,7 +93,7 @@
                             </div>
                             <p>
                                 <button type="button" class="btn btn-primary sort" data-sort="abr">
-                                    Sort by Name
+                                    Sort
                                 </button>
                                 <button type="button" class="btn btn-primary sort" data-sort="price">
                                     Sort by Price
@@ -246,24 +242,7 @@
 
             eventList = new List('events', options, eventData);
         });
-		
-		let traitList = null;
-		$.getJSON(traitListURL, function(data) {
-			var options = {
-				valueNames: ['name', 'description', 'addPrice', 'removePrice'],
-				item: '<tr><td class="name" scope="row"></td><td class="description"></td><td class="addPrice"></td><td class="removePrice"></td></tr>'
-			};
-			
-			var traitData = [];
-			$.each(data.traits, function(index, value) {
-				if (value["addPrice"] > 0) {
-					traitData.push(value);
-				}
-			});
-			
-			traitList = new List('traits', options, traitData);
-		});
-		
+
         $("#item-price-min").keyup(function() {
             updateItemFilter();
         });
@@ -296,16 +275,6 @@
                 return allow;
             });
         }
-		traitList.filter(function(item) {
-                var allow = true;
-                if (minPrice != "" && parseInt(item.values().addPrice) < minPrice) {
-                    allow = false;
-                }
-                if (maxPrice != "" && parseInt(item.values().addPrice) > maxPrice) {
-                    allow = false;
-                }
-                return allow;
-            });
     </script>
     <script type="text/javascript">
         var tabs = angular.module('tabs', [])
