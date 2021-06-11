@@ -7981,12 +7981,6 @@
          "defname":"ZygolophodonTusk"
       },
       {
-         "abr":"broodlord",
-         "price":63333,
-         "category":"Animal",
-         "defname":"BroodLord"
-      },
-      {
          "abr":"bulwark",
          "price":6333,
          "category":"Animal",
@@ -8761,5 +8755,5 @@
          "defname":"TableProsthetics"
       }
    ],
-   "total":1513
+   "total":1512
 }
