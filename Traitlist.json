@@ -344,7 +344,17 @@
          "abr":"Wimp",
          "price":600,
          "rprice":600
+      },
+      {
+         "abr":"Xenophile",
+         "price":600,
+         "rprice":600
+      },
+      {
+         "abr":"Xenophobe",
+         "price":600,
+         "rprice":600
       }
    ],
-   "total":70
+   "total":72
 }
