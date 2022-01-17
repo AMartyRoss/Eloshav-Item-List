@@ -3799,192 +3799,6 @@
          "price":1550
       },
       {
-         "abr":"potassiumiodide",
-         "category":"Drugs",
-         "defname":"PotassiumIodide",
-         "price":53
-      },
-      {
-         "abr":"r.t.g",
-         "category":"Nuclear",
-         "defname":"RimatomicsRTG",
-         "price":4333
-      },
-      {
-         "abr":"rocketengine",
-         "category":"Rimatomics Product",
-         "defname":"RocketEngine",
-         "price":67
-      },
-      {
-         "abr":"missilefuselage",
-         "category":"Rimatomics Product",
-         "defname":"MissileFuselage",
-         "price":67
-      },
-      {
-         "abr":"nuclearwarhead",
-         "category":"Rimatomics Product",
-         "defname":"FissionWarhead",
-         "price":24000
-      },
-      {
-         "abr":"turbineblades",
-         "category":"Rimatomics Product",
-         "defname":"turbineBlade",
-         "price":2
-      },
-      {
-         "abr":"uraniumpellets",
-         "category":"Rimatomics Product",
-         "defname":"UraniumPellets",
-         "price":3
-      },
-      {
-         "abr":"plutonium",
-         "category":"Rimatomics Product",
-         "defname":"Plutonium",
-         "price":100
-      },
-      {
-         "abr":"depleteduranium",
-         "category":"Rimatomics Product",
-         "defname":"DepletedUraniumPellets",
-         "price":13
-      },
-      {
-         "abr":"fuelrods",
-         "category":"Nuclear fuel",
-         "defname":"FuelRods",
-         "price":1667
-      },
-      {
-         "abr":"fuelrodsmox",
-         "category":"Nuclear fuel",
-         "defname":"FuelRodsMOX",
-         "price":3333
-      },
-      {
-         "abr":"radiationmask",
-         "category":"Hazmat",
-         "defname":"Apparel_RadiationMask",
-         "price":244
-      },
-      {
-         "abr":"moppmask(desert)",
-         "category":"Mopp",
-         "defname":"Apparel_MoppMaskDesert",
-         "price":533
-      },
-      {
-         "abr":"moppmask(woodland)",
-         "category":"Mopp",
-         "defname":"Apparel_MoppMaskWoodland",
-         "price":533
-      },
-      {
-         "abr":"moppmask(snow)",
-         "category":"Mopp",
-         "defname":"Apparel_MoppMaskSnow",
-         "price":533
-      },
-      {
-         "abr":"radiationsuit",
-         "category":"Hazmat",
-         "defname":"Apparel_RadiationSuit",
-         "price":383
-      },
-      {
-         "abr":"moppsuit(desert)",
-         "category":"Mopp",
-         "defname":"Apparel_MoppSuitDesert",
-         "price":550
-      },
-      {
-         "abr":"moppsuit(woodland)",
-         "category":"Mopp",
-         "defname":"Apparel_MoppSuitWoodland",
-         "price":550
-      },
-      {
-         "abr":"moppsuit(snow)",
-         "category":"Mopp",
-         "defname":"Apparel_MoppSuitSnow",
-         "price":550
-      },
-      {
-         "abr":"sabotround",
-         "category":"Sabot Rounds",
-         "defname":"RailgunSabot",
-         "price":17
-      },
-      {
-         "abr":"dusabotround",
-         "category":"Sabot Rounds",
-         "defname":"RailgunSabotDU",
-         "price":83
-      },
-      {
-         "abr":"controlrodactuator",
-         "category":"Rimatomics Product",
-         "defname":"ControlRodActuator",
-         "price":67
-      },
-      {
-         "abr":"atom",
-         "category":"Rimatomics Product",
-         "defname":"ATOM",
-         "price":67
-      },
-      {
-         "abr":"scad",
-         "category":"Rimatomics Product",
-         "defname":"SCAD",
-         "price":67
-      },
-      {
-         "abr":"meps",
-         "category":"Rimatomics Product",
-         "defname":"MEPS",
-         "price":67
-      },
-      {
-         "abr":"alc",
-         "category":"Rimatomics Product",
-         "defname":"ALC",
-         "price":67
-      },
-      {
-         "abr":"ers",
-         "category":"Rimatomics Product",
-         "defname":"ERS",
-         "price":67
-      },
-      {
-         "abr":"driveactuator",
-         "category":"Rimatomics Product",
-         "defname":"DriveActuator",
-         "price":67
-      },
-      {
-         "abr":"targetingchip",
-         "category":"Rimatomics Product",
-         "defname":"TargetingChip",
-         "price":67
-      },
-      {
-         "abr":"beamsplitter",
-         "category":"Rimatomics Product",
-         "defname":"BeamSplitter",
-         "price":67
-      },
-      {
-         "abr":"lensmodule",
-         "category":"Rimatomics Product",
-         "defname":"LenseModule",
-         "price":67
-      },
-      {
          "abr":"amulet",
          "category":"Inert relics",
          "defname":"VIE_RelicInertAmulet",
@@ -7675,6 +7489,126 @@
          "price":833
       },
       {
+         "abr":"rhombohedralenergyweapon",
+         "category":"Ranged weapons",
+         "defname":"ROM_MiGoCastingWeapon",
+         "price":417
+      },
+      {
+         "abr":"migomatter",
+         "category":"Leathers",
+         "defname":"CH_Leather_MiGo",
+         "price":3
+      },
+      {
+         "abr":"chthonianchitin",
+         "category":"Leathers",
+         "defname":"CH_Leather_Chthonian",
+         "price":13
+      },
+      {
+         "abr":"star-spawnskin",
+         "category":"Leathers",
+         "defname":"CH_Leather_Cthulhid",
+         "price":6
+      },
+      {
+         "abr":"dark-youngbark",
+         "category":"Leathers",
+         "defname":"CH_Leather_DarkYoung",
+         "price":12
+      },
+      {
+         "abr":"deephide",
+         "category":"Leathers",
+         "defname":"CH_Leather_DeepOne",
+         "price":12
+      },
+      {
+         "abr":"star-vampireleather",
+         "category":"Leathers",
+         "defname":"CH_Leather_StarVampire",
+         "price":8
+      },
+      {
+         "abr":"strangesimplemeal",
+         "category":"Meals",
+         "defname":"ROM_StrangeMealSimple",
+         "price":42
+      },
+      {
+         "abr":"strangefinemeal",
+         "category":"Meals",
+         "defname":"ROM_StrangeMealFine",
+         "price":47
+      },
+      {
+         "abr":"strangelavishmeal",
+         "category":"Meals",
+         "defname":"ROM_StrangeMealLavish",
+         "price":67
+      },
+      {
+         "abr":"strangekibble",
+         "category":"Foods",
+         "defname":"ROM_StrangeKibble",
+         "price":2
+      },
+      {
+         "abr":"untouchablemeat",
+         "category":"Raw strange meat",
+         "defname":"ROM_RawCHFood_Meat",
+         "price":2
+      },
+      {
+         "abr":"cthulhidmeat",
+         "category":"Raw strange meat",
+         "defname":"ROM_RawCHFood_CthulhidMeat",
+         "price":2
+      },
+      {
+         "abr":"deeponemeat",
+         "category":"Raw strange meat",
+         "defname":"ROM_RawCHFood_DeepOneMeat",
+         "price":2
+      },
+      {
+         "abr":"migomeat",
+         "category":"Raw strange meat",
+         "defname":"ROM_RawCHFood_MiGoMeat",
+         "price":2
+      },
+      {
+         "abr":"shoggothmeat",
+         "category":"Raw strange meat",
+         "defname":"ROM_RawCHFood_ShoggothMeat",
+         "price":2
+      },
+      {
+         "abr":"starvampiremeat",
+         "category":"Raw strange meat",
+         "defname":"ROM_RawCHFood_StarVampireMeat",
+         "price":2
+      },
+      {
+         "abr":"darkyoungmeat",
+         "category":"Raw strange meat",
+         "defname":"ROM_RawCHFood_DarkYoungMeat",
+         "price":2
+      },
+      {
+         "abr":"chthonianstrips",
+         "category":"Raw strange meat",
+         "defname":"ROM_RawCHFood_ChthonianMeat",
+         "price":3
+      },
+      {
+         "abr":"darkyoungsap",
+         "category":"Animal products",
+         "defname":"ROM_DarkYoungSap",
+         "price":5
+      },
+      {
          "abr":"vanometricgrav-pack",
          "category":"Utility",
          "defname":"SGC_Apparel_Jetpack",
@@ -8617,5 +8551,5 @@
          "price":3333
       }
    ],
-   "total":1436
+   "total":1425
 }
