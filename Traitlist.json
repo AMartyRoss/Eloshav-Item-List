@@ -2,358 +2,358 @@
    "traits":[
       {
          "abr":"Abrasive",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"AnnoyingVoice",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Ascetic",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Asexual",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Beautiful",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Bisexual",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Bloodlust",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Bodypurist",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Brawler",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Cannibal",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"CarefulShooter",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Chemicalfascination",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Chemicalinterest",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Creepybreathing",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Depressive",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Faithful",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Fastlearner",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Fastwalker",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Fisherman",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Gay",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Gourmand",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Greatmemory",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Greedy",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Hardworker",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Industrious",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Iron-willed",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Jealous",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Jogger",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Kind",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Lazy",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Masochist",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Misandrist",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Misogynist",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Nervous",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Neurotic",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Nightowl",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Nimble",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Nudist",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Optimist",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Pessimist",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Philanderer",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Polyamorous",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Pretty",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Psychicallydeaf",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Psychicallydull",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Psychically hypersensitive",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Psychicallysensitive",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Psychopath",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Pyromaniac",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Quicksleeper",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Sanguine",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Sickly",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"SlowLearner",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Slowpoke",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Staggeringlyugly",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Steadfast",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Straight",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Super-immune",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Teetotaler",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Toosmart",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Torturedartist",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Tough",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Transhumanist",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Trigger-happy",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Ugly",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Undergrounder",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Veryneurotic",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Volatile",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Wimp",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Xenophile",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       },
       {
          "abr":"Xenophobe",
-         "price":600,
-         "rprice":600
+         "price":2000,
+         "rprice":2000
       }
    ],
    "total":72
